@@ -10,7 +10,7 @@ This project is designed to help teams collaborate more effectively. the tool in
 - log of completed tasks
 
 # INSTALLATION GUIDE
-1. Download the repository
+# Download the repository
 2. Unzip the file
 3. Open terminal and navigate to project directory
 4. Run npm install
