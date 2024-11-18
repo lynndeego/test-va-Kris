@@ -1,4 +1,4 @@
-#PROJECT TITLE
+*PROJECT TITLE*
 This project is designed to help teams collaborate more effectively. the tool integrates with slack and provides task management features. users can create, assign, and track tasks. the tool also sends reminders and keeps a log of completed tasks.
 
 FEATURES
