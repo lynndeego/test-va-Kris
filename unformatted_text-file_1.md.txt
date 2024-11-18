@@ -1,0 +1,20 @@
+PROJECT TITLE
+this project is designed to help teams collaborate more effectively. the tool integrates with slack and provides task management features. users can create, assign, and track tasks. the tool also sends reminders and keeps a log of completed tasks.
+
+FEATURES
+task creation
+task assignment
+reminders
+task tracking
+integration with slack
+log of completed tasks
+
+INSTALLATION GUIDE
+1 download the repository
+2 unzip the file
+3 open terminal and navigate to project directory
+4 run npm install
+5 run npm start
+
+CONTACT
+for support, please contact support@project.com
